@@ -43,5 +43,5 @@ This project is licensed under the MIT License.
 Contact
 [Provide information on how users can reach out to you or the project team. This could include email addresses, social media profiles, or a link to a discussion forum.]
 
-For inquiries, please contact Gilbert Tan at gilbert.tan@email.com.
+For inquiries, please contact Gilbert Tan at gilbert.tan1991@gmail.com.
 
